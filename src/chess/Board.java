@@ -1,14 +1,14 @@
-package ca.uqac.inf957.chess;
+package chess;
 
-import ca.uqac.inf957.chess.agent.Move;
-import ca.uqac.inf957.chess.agent.Player;
-import ca.uqac.inf957.chess.piece.Bishop;
-import ca.uqac.inf957.chess.piece.King;
-import ca.uqac.inf957.chess.piece.Knight;
-import ca.uqac.inf957.chess.piece.Pawn;
-import ca.uqac.inf957.chess.piece.Piece;
-import ca.uqac.inf957.chess.piece.Queen;
-import ca.uqac.inf957.chess.piece.Rook;
+import chess.agent.Move;
+import chess.agent.Player;
+import chess.piece.Bishop;
+import chess.piece.King;
+import chess.piece.Knight;
+import chess.piece.Pawn;
+import chess.piece.Piece;
+import chess.piece.Queen;
+import chess.piece.Rook;
 
 public class Board {
     private Spot[][] grid;

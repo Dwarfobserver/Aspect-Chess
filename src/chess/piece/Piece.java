@@ -1,6 +1,6 @@
-package ca.uqac.inf957.chess.piece;
+package chess.piece;
 
-import ca.uqac.inf957.chess.agent.Move;
+import chess.agent.Move;
 
 public abstract class Piece {
 	 protected int player;

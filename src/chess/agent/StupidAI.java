@@ -1,8 +1,8 @@
-package ca.uqac.inf957.chess.agent;
+package chess.agent;
 
 import java.util.Random;
 
-import ca.uqac.inf957.chess.Board;
+import chess.Board;
 // the irony
 public class StupidAI extends Player {
     // dies roooooll

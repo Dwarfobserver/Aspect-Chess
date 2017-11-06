@@ -1,8 +1,8 @@
-package ca.uqac.inf957.chess;
+package chess;
 
-import ca.uqac.inf957.chess.agent.StupidAI;
-import ca.uqac.inf957.chess.agent.HumanPlayer;
-import ca.uqac.inf957.chess.agent.Player;
+import chess.agent.StupidAI;
+import chess.agent.HumanPlayer;
+import chess.agent.Player;
 
 public class Game {
 

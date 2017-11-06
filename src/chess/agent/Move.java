@@ -1,4 +1,4 @@
-package ca.uqac.inf957.chess.agent;
+package chess.agent;
 
 public class Move {
     public int xI, xF, yI, yF;

@@ -1,7 +1,7 @@
-package ca.uqac.inf957.chess.piece;
+package chess.piece;
 
-import ca.uqac.inf957.chess.agent.Move;
-import ca.uqac.inf957.chess.agent.Player;
+import chess.agent.Move;
+import chess.agent.Player;
 
 public class Bishop extends Piece {
 

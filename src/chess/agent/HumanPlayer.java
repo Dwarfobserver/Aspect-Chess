@@ -1,6 +1,6 @@
-package ca.uqac.inf957.chess.agent;
+package chess.agent;
 
-import ca.uqac.inf957.chess.Board;
+import chess.Board;
 
 public class HumanPlayer extends Player {
 

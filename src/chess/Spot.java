@@ -1,6 +1,6 @@
-package ca.uqac.inf957.chess;
+package chess;
 
-import ca.uqac.inf957.chess.piece.Piece;
+import chess.piece.Piece;
 
 public class Spot {
 	private boolean occupied;
