@@ -6,8 +6,8 @@ Etudiants :
  - CONGARD Sidney
  - LUCE Mathilde  
 
-TP portant sur AspectJ. Le but est de corriger un jeu d'échec en Java sans toucher
-au code source, et de journaliser les actions effectuées en jeu.
+TP portant sur AspectJ. Le but est de corriger un jeu d'échec en Java sans toucher au code source,
+et de journaliser les actions effectuées en jeu.
 
 Vérifications lors d'un mouvement :
 
@@ -20,6 +20,8 @@ Vérifications lors d'un mouvement :
 
 Autres corrections :
  
+ - Les pions arrivant à l'autre bout du plateau peuvent être promus (une pièce est créée à l'aide
+   de la réflexivité)
  - Le fou (Bishop) avait l'apparence d'un pion, et affiche maintenant un 'b/B'
  - Le joueur humain se disait noir, maintenant blanc (joue en premier, avec les pièces minuscules)
  - Le move est affiché avec des chiffres de 0 à 7, maintenant de 1 à 8
