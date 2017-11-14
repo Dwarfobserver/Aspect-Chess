@@ -1,6 +1,5 @@
 package aspects;
 
-import chess.Spot;
 import chess.agent.Move;
 import chess.piece.*;
 

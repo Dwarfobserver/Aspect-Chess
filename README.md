@@ -22,6 +22,11 @@ Autres corrections :
  
  - Les pions arrivant à l'autre bout du plateau peuvent être promus (une pièce est créée à l'aide
    de la réflexivité)
+ - Les mouvements et promotions sont journalisées dans un nouveau fichier nommé "move-logs.txt"
  - Le fou (Bishop) avait l'apparence d'un pion, et affiche maintenant un 'b/B'
  - Le joueur humain se disait noir, maintenant blanc (joue en premier, avec les pièces minuscules)
  - Le move est affiché avec des chiffres de 0 à 7, maintenant de 1 à 8
+
+Ce qui complèterait le programme :
+
+ - Les conditions de victoire / défaite, le code AspectJ ne touche pas à la boucle de jeu
